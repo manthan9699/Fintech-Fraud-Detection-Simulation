@@ -1,0 +1,5 @@
+transaction_id,card_number,amount,timestamp,location,last_location,time_since_last_min
+1,1234,500.00,2026-01-03 10:00:00,Mumbai,Mumbai,60
+2,1234,1.50,2026-01-03 10:05:00,Mumbai,Mumbai,5
+3,1234,0.99,2026-01-03 10:05:10,Mumbai,Mumbai,0.1
+4,5678,2000.00,2026-01-03 10:10:00,Delhi,New York,2
