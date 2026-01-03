@@ -30,7 +30,7 @@ The system analyzes transaction data in real-time to flag three critical types o
 ---
 
 ### 📊 How to Run
-1. Clone the repository: `git clone [YOUR_URL_HERE]`
+1. Clone the repository: `git clone https://github.com/manthan9699/Fintech-Fraud-Detection-Simulation.git`
 2. Ensure you have the `transactions.csv` file in the same directory.
 3. Run the detector: `python detector.py`
 
