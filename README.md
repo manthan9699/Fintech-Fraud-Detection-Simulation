@@ -23,7 +23,7 @@ The system analyzes transaction data in real-time to flag three critical types o
 ---
 
 ### 🛠️ Technical Stack
-- **Language:** Python 3.x
+- **Language:** Python 3.12
 - **Library:** Pandas (for high-speed data manipulation)
 - **Environment:** Mock SOC environment simulating EnKash-style corporate spend management.
 
